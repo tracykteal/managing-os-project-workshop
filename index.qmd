@@ -9,6 +9,8 @@ An open source project starts with ideas and code, but it continues with people.
 
 In this interactive 1-day workshop you'll learn some key practices for effect open source project management. You'll walk away with new approaches for making project decisions, better strategies to manage user and contributor interactions, and better ways to set boundaries. Different projects make different decisions based on their needs and in this workshop you'll see what types of decisions are possible, and how you can make the ones appropriate for you. During the workshop, you'll create useful documents for your repository and begin to outline some processes you can finalize later or with your team.
 
+These materials are available in the GitHub repository [https://github.com/tracykteal/managing-os-project-workshop](https://github.com/tracykteal/managing-os-project-workshop) and are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 **This workshop is for you if you:**
 
 -   are involved in maintaining an open source project and struggling to feel like it's sustainable, or are looking for practice or guidance,
