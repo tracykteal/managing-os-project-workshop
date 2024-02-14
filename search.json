@@ -1,0 +1,132 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Managing an open source project",
+    "section": "",
+    "text": "Workshop overview",
+    "crumbs": [
+      "Workshop overview"
+    ]
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "Managing an open source project",
+    "section": "Instructors",
+    "text": "Instructors\n\nInstructor: Dr. Tracy Teal (she/her) was the Open Source Program Director at Posit. Previously, she was a co-founder of Data Carpentry and the Executive Director of The Carpentries. She developed open source bioinformatics software as an assistant professor at Michigan State University and holds a PhD in computation and neural systems from California Institute of Technology. Tracy is involved in the open source software and reproducible research communities, including serving on advisory committees for NumFOCUS, pyOpenSci, the R Consortium and carbonplan, and has been working with open source communities, developing curriculum, and teaching people how to work with data and code as a developer, instructor and project leader throughout her career.",
+    "crumbs": [
+      "Workshop overview"
+    ]
+  },
+  {
+    "objectID": "project-goals.html",
+    "href": "project-goals.html",
+    "title": "1  Setting project goals",
+    "section": "",
+    "text": "Project Goals questions",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Setting project goals</span>"
+    ]
+  },
+  {
+    "objectID": "project-goals.html#project-goals-questions",
+    "href": "project-goals.html#project-goals-questions",
+    "title": "1  Setting project goals",
+    "section": "",
+    "text": "The numbers\nLet’s start with an overview of your project.\n\nProject name:\nOnline resources: github repo, web site, etc\nHow long has your project been around?\nAbout how many people use your project?\nAbout how many contributors do you have? (however you define contributors)\nAbout how many core project members do you have? (however you define that)\nWhat stage would you describe your project? experimental, stable, sunsetting, something else?\nWhat are you most proud of about this project (ok, this isn’t a number)?\n\n\n\n\n\n\n\nExercise\n\n\n\nAnswer these questions for your project. Pair up with someone else in the workshop and go talk through your responses with each other.\n\n\n\n\nStart with why.\nYou started or got involved in this project to solve some problem for yourself or others. Why are you involved in this project, who is that person you’re trying to help? It’s fine if this person is current, present or future you!\n\n\nYour envisioned users\nDescribe one or two types of people you envision your project serving\n\nWhat field(s) do they work or are living/working in that are relevant for your project?\nWhen are they using your project? As a part of their work, their hobby, or managing their lives?\nWhat tasks are they struggling with that your project addresses?\nWhat are they trying to achieve in their work/life that’s relevant for your project?\nAre there any restrictions on how they can use your project? e.g. control on installation, access to data, etc.\nHow much time do they have for this work?\nIs this a core part of what they’re trying to do, or something that’s necessary, but not where they want to spend their time?\nWhat’s their level of programming/data science experience?\nWhat other limitations or features are you trying to address for your users with your project?\nWhat other questions did you think of about your users that you’d like to answer?\n\n\n\n\n\n\n\nExercise\n\n\n\nAnswer these questions for your project. Pair up with someone else in the workshop. What’s one thing you realized about who you’re trying to serve with your project, going through these questions?\nTiming: 20 minutes answering questions, 10 minutes discussing\n\n\n\n\nAnd onto how many\nNow that you’ve thought about an individual user or two, now let’s consider how many people you’d like your project to be able to serve, what community.\nConsidering your target users from above, how many people are in this category, where are they, and what percent of a field or community do they represent?\nAgain, this is about your goals, not necessarily where you are now.\n\nHow many people does your target user(s) represent (in orders of magnitude)?\nAre they easily identified and reached?\nWhat percent of a field do they represent?\nWhat does success look like for you? What percent of these people using your project is success?\n\n\n\n\n\n\n\nExercise\n\n\n\nAnswer these questions for your project. Pair up with someone else in the workshop. What’s one thing you realized about the community you’re trying to reach in answering these questions?\nTiming: 15 minutes answering questions, 5 minutes discussing\n\n\n\n\nYou and your team\nOK, so you’ve thought about the people and problems you want to serve with your project. But it’s just you and your team! Maybe your team is just you. So, what’s important to you and your team, about the time you have and how you work best.\n\nHow many people would you consider to be core members of this project and who are they? (How you define this is up to you)\nHow much time do they have to work on this project, and is a part of work or outside-of-work time, or a mix, where that time would be sustainable? Be realistic!\nAre any of the team members paid to work on this project?\nWhat parts of the project do you like working on best?\nWhat parts of the project worry you the most?\nOn your team (if you have one), who likes to do what, and/or is good at different areas, on the project? (Not who does what, but who likes and/or is good at the different project aspects)\nWhat do you see as some gaps, i.e. ‘this work isn’t anyone on the team’s current area of strength’.\nWhat personally is success for you and your relationship with this project? Complete this sentence. In one year, I will be happy if I am spending X amount of time on this project, am excited about Y and not worried about Z.\n\n\n\n\n\n\n\nExercise\n\n\n\nAnswer these questions for your project. Pair up with someone else in the workshop. Share with them your response to the last question (what does success look like for you).\nTiming: 15 minutes answering questions, 5 minutes discussing\n\n\n\n\nContributors\nNow that you’ve thought about who you want to serve with your project, and what’s important for you and your team, the other piece of the project is contributors. What are your goals here? How do you see that people can best contribute?\n\nWhat’s an example of a contribution to your project that you really appreciated?\nWhat is an example of a contribution that was difficult to handle?\nDo you like to work through github, Slack, in person meetings or other channels?\n\n\n\n\n\n\n\nExercise\n\n\n\nAnswer these questions for your project. We’ll use the responses in future sections.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Setting project goals</span>"
+    ]
+  },
+  {
+    "objectID": "managing-expectations.html",
+    "href": "managing-expectations.html",
+    "title": "2  Managing expectations",
+    "section": "",
+    "text": "Project setup\nSome standard files you’ll have are a license and a Code of Conduct. If you don’t have special needs for your project, the MIT License is likely a good choice, and the standard GitHub Code of Conduct. Remember to identify a reporting process for your Code of Conduct. That’s a key component, just having the file is not enough.\nWhile there are people who will mainly use your project, and not engage with the code, there’s a spectrum of users to contributors, not clear categories. In open source, most contributors are also users of the software. That’s why they want to contribute!\nFor this module we’re going to focus on people who engage with the project through wherever you have the code for the project through issues and PRs.\nWhen people share issues or PRs they usually have some expectation for a response. In the absense of information from the project on what that will be, people have a lot of their own ideas they bring to the interaction. Note, again, even if you write all of this down, people might not see it. But writing it down gives you something to point to, to respond. So, you’ve articulated your goals for the project and your team. How should people share with you, and what can they expect as a response?\nSometimes this information is in a CONTRIBUTING.md file, but you might have it in a README or somewhere else.\nYou may have noticed in the CONTIBUTING file, we said that the guidelines were for people who are new contributors. That’s because your project likely has different categories of contributors.\nThe tidyverse has a contributing to the tidyverse document as well as a new! code review principles that outline different patterns of collaboration. For people in other modes of collaboration on your project, you should still be clear about the expectations for submission and review, but you likely want to address those differently than for someone who is submitting one or two issues/PRs to your project.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Managing expectations</span>"
+    ]
+  },
+  {
+    "objectID": "managing-expectations.html#project-setup",
+    "href": "managing-expectations.html#project-setup",
+    "title": "2  Managing expectations",
+    "section": "",
+    "text": "Exercise\n\n\n\nCheck your project for license and Code of Conduct files in your repository. Are they there?\nIn your Code of Conduct do you have:\n\ncontact information\ninformation on who receives an email/report\nfor the people who receive a report, do they have an idea of how to handle a report?\n\nIf after looking through this information, you’d like to learn more about Codes of Conduct, this is a good resource.\n\nHow to respond to Code of Conduct Reports by Valerie Aurora\n\n\n\n\n\n\n\n\n\n\n\n\n\nExercise\n\n\n\nFill out this template for a CONTRIBUTING.md file for your project.\nCONTRIBUTING.md template\n\n\n\n\n\n\n\n\n\n\nExercise\n\n\n\nLook at the collaboration patterns section in the tidyverse PR guide. What types of collaboration do you have currently in your project? How might you adjust expectations for your project in the ‘external contributors’ mode, versus how the tidyverse guide does.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Managing expectations</span>"
+    ]
+  },
+  {
+    "objectID": "managing-expectations.html#language",
+    "href": "managing-expectations.html#language",
+    "title": "2  Managing expectations",
+    "section": "Language",
+    "text": "Language\nYou’ve done a great job figuring out how you’d best like contributions, and your goals and boundaries for the project. Still, people won’t necessarily see this information when they come to your project, so it will be a process of consistently onboarding new people and replying to issues and PRs and figuring out your process. Ideally you want to be able to say no when needed, and still keep people engaged and feel included.\nThese are some ideas and templates of language you can use in different situations.\nNote though, that everyone has their different style that’s true to them, so adapt as needed to match who you and your project are.\n\nExamples\nThese are some examples of response styles and approaches where you can see the style matches the maintainer, and also makes people feel positively about the project, even if the project isn’t looking for a lot of active contributions.\n\nbeartype:\n\napologizing for taking some time to respond\nsomeone who was so impressed by the issues they wanted to contribute\nthe maintainer makes friends over legacy usernames, which is just funny!\n\n\nWhat examples do you have that you like?\n\n\nSample language\nThese are some examples for different situations. Now, ChatGPT is likely to also give you some helpful starting places!\n\n\n\n\n\n\nExercise\n\n\n\nTry adapting one of these language templates for one of your open issues or PRs.\n\n\n\n\nResources\n\nOpen source community management from Jono Bacon",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Managing expectations</span>"
+    ]
+  },
+  {
+    "objectID": "decision-making.html",
+    "href": "decision-making.html",
+    "title": "3  Decision making",
+    "section": "",
+    "text": "The ‘who’ of decision making: governance\nGovernance is decision making. You set up governance structures, so you can make decisions for the project. Here again you need to think about project goals.\nI’ll start by being a little controversial here. You don’t always need a governance structure. If it’s just you working on the project and you’re making all the decisions, and it’s at an early lifecycle stage, that’s probably fine. That’s maybe less fine as the project beomces more central or other factors though. And here’s where I back off from that initial controversial claim. We can rephrase it as a single person making decisions is its own form of governance. We just don’t often think about it that way.\nSo, let’s talk about a few differnt models.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Decision making</span>"
+    ]
+  },
+  {
+    "objectID": "decision-making.html#the-who-of-decision-making-governance",
+    "href": "decision-making.html#the-who-of-decision-making-governance",
+    "title": "3  Decision making",
+    "section": "",
+    "text": "Single maintainer\nSo, it’s just you. You’re the primary contributor and docs writer and all the things. So, clearly you make all the decisions and everyone knows that, and it’s fine, right. Alas, no, 1) some people might not know that and 2) you still need to decide and communicate how you make decisions. Think of future you here, will you understand how past you made decisions.\nThere’s not necessarily an obvious file or section to write about a governance model. However, you won’t have much to write here, so you could include some text in your CONTRIBUTING.md, even though someone could figure it out from the github information, like\n\nPERSON is the primary maintainer for this project. Decisions for the project will be made with (list or link to project goals) in mind and the need for continuing maintenance on the project. The project also needs to stay compatible with X, Y and Z.\n\n\nIf you’d like to propose a new idea for the project, please share it an issue for discussion.\n\nAgain, this will be something you can point back to if, e.g. someone puts in a PR that’s out of scope or will be hard to maintain.\n\n\nMulti-person project\nYou’re growing or started this project as a collaboration. The main thing you need to do is make some decisions about how you’ll work together and make decisions. There’s a lot of models for this.\nRed Hat has a nice overview of six different models.\nUnderstanding open source governance models\n\n\nMulti-stakeholder project\nHow is a multi-stakeholder project different than a multi-person project? It’s different because you are at the stage where you have multiple types of stakeholders - users and contributors who may have competing needs or interests, and resources to put behind these different interests. This is where governance really shines. You need to be clear about how decisions for the project are made that serve the community as a whole. Otherwise you can end up in situations where work gets done just where people can put effort, and that might not be the top set of priorities for the project as a whole.\n\n\n\n\n\n\nExercise\n\n\n\nIn your project, who makes the decisions? Draft a couple of sentences about who makes the decisions for your project. This isn’t something you’d necessarily share yet, it’s a first draft for your own clarity. Pair up and talk about this with a partner.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Decision making</span>"
+    ]
+  },
+  {
+    "objectID": "decision-making.html#the-how-of-decision-making",
+    "href": "decision-making.html#the-how-of-decision-making",
+    "title": "3  Decision making",
+    "section": "The ‘how’ of decision making",
+    "text": "The ‘how’ of decision making\nOnce you know who is making decisions, you can think about how you make them. What input do you include, what rubric do you use for making decisions (even if informal)? Having project goals and knowing roles within the team can already have put you on a path to make this process easier.\n\n\n\n\n\n\nExercise\n\n\n\nHow would you say decisions are made on your project now? Write a couple of sentences that describe how decisions are made. What’s clear about your decision making approach? What could be clearer?\n\n\n\nResolving conflict\nYou have some clarity on who makes decisions and how, and that’s a big help! There will always though be disagreement, either within the group of decision makers, or with community members. So how do you resolve conflict? This is one of the top thing we’re usually uncomfortable with. Conflict isn’t always bad! It can help us get to better ideas, but it isn’t usually something we look forward to encountering.\nIn this section we’ll focus on conflict with contributors or users, because this is conflict that is usually in the open in open source projects, which adds some additional layers.\nThere’s a few steps of assessment and responses you can go through.\n\nStep 1: Is this a new person to the project?\n\nIs this a person new to the project who might not know about how to contribute or how decisions are made? If so, reply to the person kindly pointing them at these resources and ask them to follow the approaches you use, and help them in the process.\n\nStep 2: Is this a new issue with an existing person or team?\n\nIf it’s a new issue, approach it with a decision making approach based on project goals, here talking through reasoning can be helpful for a shared understanding. Start with asking questions so you understand.\n\nStep 3: Is this an ongoing issue with a person or team?\n\nHere is where the issue isn’t really about the issue. How can you understand this person’s general perspective, or realize that there’s not good intent on getting to a shared understanding?\n\n\n\n\n\n\n\n\nExercise\n\n\n\nScenarios: These are a few scenarios. Pair up with someone else and choose two scenarios. In one you’ll be the project maintainer and the other person will be the contributor, and then change roles for the other scenario.\nScenario 1: A new contributor submits a pull request to your repository. It’s quite a bit of code, adding in a new feature that hadn’t been discussed before. It’s on topic, but not aligned with your current goals for the project, or the resources you have available.\nReply in this pull request how you would for your project.\nScenario 2: A frequent contributor submits an issue that something isn’t behaving the way they expect, and suggests a new approach. They’ve submitted helpful PRs in the past.\nSubmit and respond to an issue in this repository how you would for your project.\nScenario 3: Someone frequently submits issues in your repository, and communicates in a way that suggests things need to be fixed, in a way that works for them, right away. One person submit an issue that takes that approach and the other person respond, by creating an issue in [this repository](Submit and respond to an issue in this repository.\nScenario 4: A frequent contributor consistently submits PRs without discussion, on things that aren’t aligned with project goals. There’s clearly misalignment with either the project goals or there’s some interpersonal issues. In this scenario, don’t do it through an issue or PR, have a conversation with your partner.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Decision making</span>"
+    ]
+  },
+  {
+    "objectID": "thriving.html",
+    "href": "thriving.html",
+    "title": "4  Surviving and thriving as an open source maintainer",
+    "section": "",
+    "text": "Approaches to try\nThere are a million and one books on ‘habits’, ‘boundaries’, ‘self-compassion’ and other related topics. There’s not a new concept I can add here, and I’ll share that I’m still on a journey to figuring it out myself.\nSo, what I’ll do is try to give you a framework for you to find your own strategies that work for you, and the resources that have resonated the most for me. My best advice is to be cautious of advice. :) People are different from each other, have intersectional identities, and different backgrounds and experiences that led them to where they are, so something that worked for someone else is not necessarily something that will be right to you. So, maybe my advice is to listen to other people’s stories and what they share, and take from it what makes sense for you. I have yet to read a book or hear about someone’s journey where I agreed with everything, but I almost always take away at least one thing (even if it’s a ‘not to do’ thing).\nOne thing to mention though is that you are a leader. If you are taking this course, it means you’re working on a project and learning more about supporting the project and people you work with. Often the transition is subtle, so you don’t feel like a leader yet. But leadership isn’t through title or position, it’s about wanting to serve. (ok, everyone might not agree with this, but it’s my definition of leadership).\nA quote I like from one of my favorite show Numb3rs is “a teacher is a leader at the front of the room”. Open source maintainers are leaders in the front of the code base. Thank you for what you do.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Surviving and thriving as an open source maintainer</span>"
+    ]
+  },
+  {
+    "objectID": "thriving.html#approaches-to-try",
+    "href": "thriving.html#approaches-to-try",
+    "title": "4  Surviving and thriving as an open source maintainer",
+    "section": "",
+    "text": "Exercise\n\n\n\nWhere you have had challenges in a misalignment with how you decided you were going to work, with how you did?\nWhat are some approaches that have worked for you in aligning your goals with your actions?\n\n\n\n\n\n\n\n\nExercise\n\n\n\nWhat things would be useful after this workshop?\n\n\n\nSome resources\n\nGood to Great by Jim Collins\nWooden on Leadership by John Wooden\nLeadership is an Art by Max De Pree\nHow to be a great boss by Gino Wickman and René Boer\n15 Commitments of Concious Leadership leadership by by Jim Dethmer, Diana Chapman, Kaley Klemp\nBooks and posts from Lara Hogan",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Surviving and thriving as an open source maintainer</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "::: :::",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
